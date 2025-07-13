@@ -10,7 +10,7 @@
 • **GIS Maps & Storytelling Apps** – powered by Esri JS API  
 
 📚 I’m constantly learning about:  
-• JavaScript Frameworks (Angular)  
+• JavaScript Frameworks (React)  
 • API integrations  
 • Front-End best practices  
 
@@ -40,7 +40,7 @@
 *Routing system web app using PHP, MySQL, Leaflet, and JS. Coming to GitHub soon...*
 
 ### 🔹 Homeless Dilemma in Egypt
-*An Esri-powered story map that visualizes social challenges in urban areas.*
+*An Esri-powered Web App that visualizes social challenges in urban areas.*
 
 ---
 

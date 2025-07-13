@@ -26,7 +26,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff&style=flat)  
 ![Leaflet](https://img.shields.io/badge/-Leaflet-199900?logo=leaflet&logoColor=fff&style=flat)  
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=flat)  
-![React](https://img.shields.io/badge/-Figma-F24E1E?logo=react&logoColor=fff&style=flat)
+![React](https://img.shields.io/badge/-React-F24E1E?logo=react&logoColor=fff&style=flat)
 
 ---
 

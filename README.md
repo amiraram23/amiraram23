@@ -39,8 +39,11 @@
 ### 🔹 Cars Route System
 *Routing system web app using PHP, MySQL, Leaflet, and JS. Coming to GitHub soon...*
 
-### 🔹 Homeless Dilemma in Egypt
-*An Esri-powered Web App that visualizes social challenges in urban areas.*
+### 🔹 [Homelessness Dilemma and GIS](https://github.com/MuhammadEzzat01/Homelessness-Dilemma-and-GIS)
+*Collaborative mapping and social awareness project built with Esri JS API, HTML, CSS, and JS.*  
+Created alongside Muhammad Ezzat as part of a GIS graduation project highlighting homelessness in Egypt.  
+🔗 [View on GitHub](https://github.com/MuhammadEzzat01/Homelessness-Dilemma-and-GIS)
+
 
 ---
 

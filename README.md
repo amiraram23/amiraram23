@@ -5,7 +5,7 @@
 
 🌟 I'm a passionate Full Stack Developer with a GIS background. I’ve built full-stack applications using **PHP, MySQL, JavaScript, Leaflet**, and more. I love turning real-world problems into intuitive digital solutions.
 
-🔭 I’m currently working on:  
+🔭 I have currently worked on:  
 • **Cars Route System** – an interactive routing web app  
 • **GIS Maps & Storytelling Apps** – powered by Esri JS API  
 
